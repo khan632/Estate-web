@@ -6,8 +6,11 @@ import { FiKey } from 'react-icons/fi';
 
 const Navbar = () => (
   <Flex p='2' borderBottom='1px' borderColor='gray.100'>
-    <Box fontSize='3xl' color='blue.400' fontWeight='bold'>
-      <Link href='/' paddingLeft='2'>Realtor</Link>
+    <Box fontSize='3xl' bgGradient='linear(to-r, teal.500, green.500)'
+  _hover={{
+    bgGradient: 'linear(to-r, red.500, yellow.500)',
+  }} bgClip="text" fontWeight='bold'>
+      <Link href='/' paddingLeft='2'>Sky Estate</Link>
     </Box>
     <Spacer />
     <Box>
