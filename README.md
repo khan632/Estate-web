@@ -1,3 +1,25 @@
+This is an Estate Website with following features:
+1. User can buy and sell there House, Apartments, etc
+2. User can search house with search filter with more than 5 filter items
+3. Use Millify Pakage for human readable numerical data
+4. Use horizontal and vertical scolling for more images in About detail section of particular Apartment
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Stack Used :
+1. Next.js
+2. React.js
+3. Millify
+4. scrolling pakage
+5. Chakra UI
+6. Framer Motion
+7. nProgress pakage
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Video Demo of Sky Estate project:
+"C:\Users\rmust\OneDrive\Documents\Bandicam\bandicam 2022-12-10 19-52-44-836.mp4"
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
