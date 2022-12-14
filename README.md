@@ -17,7 +17,36 @@ Stack Used :
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Video Demo of Sky Estate project:
-"C:\Users\rmust\OneDrive\Documents\Bandicam\bandicam 2022-12-10 19-52-44-836.mp4"
+"https://drive.google.com/file/d/10BGp6EVx8ld0Duv4Z-TKJ-MS8SF5DEiP/view"
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Demo Images: 
+
+Selling section: 
+![Screenshot (134)](https://user-images.githubusercontent.com/54110961/207545223-c104d7a7-2cf6-4d43-a79c-750760fd9ff9.png)
+
+Buying section:
+![Screenshot (135)](https://user-images.githubusercontent.com/54110961/207545262-8ecfa692-d807-484b-9a1d-b8ba91cb85c8.png)
+
+filter section option:
+![Screenshot (136)](https://user-images.githubusercontent.com/54110961/207545315-6e5be466-0960-49c7-9ca7-726e0064edac.png)
+
+filter section:
+![Screenshot (137)](https://user-images.githubusercontent.com/54110961/207545369-e669bfef-7888-40a6-91af-99bb672526f3.png)
+
+No result:
+![Screenshot (138)](https://user-images.githubusercontent.com/54110961/207545404-0a7a4109-59cc-48d0-a184-8c29767e2229.png)
+
+Filter Data:
+![Screenshot (139)](https://user-images.githubusercontent.com/54110961/207545455-25f6fbdc-dad9-4806-9163-6a0653ae18c5.png)
+
+Ipad responsive:
+![Screenshot (140)](https://user-images.githubusercontent.com/54110961/207545493-f66a1e3f-7203-4bed-8f80-d8de8947858d.png)
+
+mobile responsive:
+![Screenshot (141)](https://user-images.githubusercontent.com/54110961/207545535-72ab2454-c7f7-4f4c-8398-f5a2549d7902.png)
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
